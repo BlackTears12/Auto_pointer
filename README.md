@@ -1,3 +1,3 @@
 # Auto_pointer
 
-A smart pointer which is implemented using reference counting.
+A smart pointer implemented using reference counting.
